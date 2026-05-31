@@ -15,7 +15,7 @@ Make a 2015 MacBook Pro Work Great on Windows 11
 Description:
 
 ```text
-Simple fixes for Wi-Fi, sound, two-finger scroll, Boot Camp drivers, Bluetooth, and fan noise on a 2015 MacBook Pro running Windows 10 or Windows 11.
+Simple fixes for Wi-Fi, sound, two-finger scroll, lid sleep, Boot Camp drivers, Bluetooth, and fan noise on a 2015 MacBook Pro running Windows 10 or Windows 11.
 ```
 
 Topics:
@@ -34,7 +34,7 @@ two-finger-scroll
 cirrus-logic
 broadcom
 fan-control
+lid-sleep
 apple-drivers
 bootcamp-drivers
 ```
-

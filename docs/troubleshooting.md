@@ -94,3 +94,22 @@ Apple Broadcom Built-in Bluetooth
 
 If those are missing, reinstall Boot Camp support software.
 
+## Lid Close Does Not Sleep
+
+Boot Camp drivers help Windows understand Apple power-management hardware, including the lid sensor.
+
+After Boot Camp support software is installed, closing the MacBook lid should be able to turn off the display or put Windows to sleep, depending on your Windows power settings.
+
+Check the setting here:
+
+```text
+Control Panel > Hardware and Sound > Power Options > Choose what closing the lid does
+```
+
+Recommended:
+
+```text
+When I close the lid: Sleep
+```
+
+If the lid still does nothing, reinstall Boot Camp support software and reboot.

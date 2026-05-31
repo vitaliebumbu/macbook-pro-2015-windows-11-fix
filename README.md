@@ -27,6 +27,7 @@ Use this guide if your MacBook has one or more of these problems in Windows:
 - Sound device says `High Definition Audio Device`
 - Fans ramp up loudly
 - Bluetooth is missing or unreliable
+- Closing the lid does not sleep or turn off the display properly
 - Device Manager shows unknown Apple devices
 - Boot Camp Control Panel is missing
 
@@ -243,6 +244,7 @@ Working fixes:
 - Restored Cirrus Logic speaker and microphone drivers
 - Restored Apple Multi-Touch trackpad driver
 - Restored Apple SMC, backlight, graphics mux, Bluetooth, and SMBus drivers
+- Restored normal lid behavior so closing the MacBook lid can turn off the display or put Windows to sleep
 - Set CPU maximum state to `99%` to reduce fan ramp
 
 ## What This Repository Does Not Include
@@ -267,4 +269,3 @@ MacBook Pro 2015 Windows 11 Wi-Fi fix, Boot Camp drivers Windows 11, MacBookPro1
 - [Safe Driver Sources](docs/safe-driver-sources.md)
 - [Advanced Commands](docs/advanced-commands.md)
 - [Publish This Guide to GitHub](docs/publish-to-github.md)
-
