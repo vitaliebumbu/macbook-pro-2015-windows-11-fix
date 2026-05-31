@@ -1,0 +1,12 @@
+BootCampESD.pkg
+WindowsSupport.dmg
+WindowsSupport/
+*.dmg
+*.pkg
+*.exe
+*.msi
+*.cab
+*.zip
+*.7z
+*.log
+
